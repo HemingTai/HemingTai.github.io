@@ -1,2 +1,2 @@
 # HemingTai.github.io
-## This page is a personal website for tester to download ipa or apk, all rights reseved. 
+## This page is my personal website for recording daily feelings, what happend and so on, all rights reseved. 
